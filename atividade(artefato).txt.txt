@@ -1,0 +1,4 @@
+Projeto de Software
+Gerenciamento de Configuração
+
+Mudança realizada no artefato.
